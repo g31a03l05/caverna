@@ -1,4 +1,4 @@
-[1:57, 18/9/2026] ♡Kevin♡: * {
+ {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
